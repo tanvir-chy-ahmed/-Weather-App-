@@ -1,16 +1,68 @@
-# weather_app
+<h1 align="center">🌦️ Weather App</h1>
 
-A new Flutter project.
+<p align="center">
+  A beautifully crafted Flutter Weather App that dynamically changes background gradients based on real-time weather data. <br>
+  Clean UI, responsive layout, and location-based forecasts make this a must-have Flutter demo. 🚀
+</p>
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 Real-time Weather API integration
+- 🎨 Background gradient changes based on:
+  - 🌧️ Rainy
+  - ☀️ Sunny
+  - ☁️ Cloudy / Default
+- 📍 Location-based weather updates
+- 🧩 Clean, scalable Flutter architecture
+- 🔧 Easy to configure and customize
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+<div align="center">
+  <img src="![riyadh](https://github.com/user-attachments/assets/80d3a95f-c5a4-4206-a245-53111e4b4ea8)" alt="Sunny Weather" width="300"/>
+  <img src="![tokoyo](https://github.com/user-attachments/assets/0c416ff1-95c2-42fd-b9f3-f27d4c4a2677)" alt="Rainy Weather" width="300"/>
+  <img src="![egypt](https://github.com/user-attachments/assets/39329a6f-4037-427b-848d-10065fe89415)" alt="Cloudy Weather" width="300"/>
+</div>
+
+
+---
+
+## ⚙️ Installation
+
+### 🧰 Prerequisites
+- ✅ Flutter SDK installed → [Get Started](https://flutter.dev/docs/get-started/install)
+- 🔑 API key from OpenWeatherMap or any weather API provider 
+
+### 🚀 Steps
+
+```bash
+git clone https://github.com/your-username/weather-app.git
+cd weather-app
+flutter pub get
+flutter run
+
+<h1 align="start">📁 Folder Structure</h1>
+
+lib/
+├── main.dart                  # App entry point
+├── models/
+│   └── weather_model.dart     # Data model
+├── services/
+│   └── weather_service.dart   # API calling logic
+├── ui/
+│   └── home_page.dart         # Main UI
+└── widgets/
+    └── weather_card.dart      # Reusable components
+
+
+<h1 align="start">👨‍💻 Author</h1>
+╔════════════════════════════════════════════╗
+║   👨‍💻 Tanvir Ahmed (Chy)                    ║
+║   🔗 https://github.com/tanvir-chy-ahmed/  ║
+╚════════════════════════════════════════════╝
+
+
