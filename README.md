@@ -23,9 +23,9 @@
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="![riyadh](https://github.com/user-attachments/assets/80d3a95f-c5a4-4206-a245-53111e4b4ea8)" alt="Sunny Weather" width="300"/>
-  <img src="![tokoyo](https://github.com/user-attachments/assets/0c416ff1-95c2-42fd-b9f3-f27d4c4a2677)" alt="Rainy Weather" width="300"/>
-  <img src="![egypt](https://github.com/user-attachments/assets/39329a6f-4037-427b-848d-10065fe89415)" alt="Cloudy Weather" width="300"/>
+  <img src="https://github.com/user-attachments/assets/80d3a95f-c5a4-4206-a245-53111e4b4ea8" alt="Sunny Weather" width="300"/>
+  <img src="https://github.com/user-attachments/assets/0c416ff1-95c2-42fd-b9f3-f27d4c4a2677" alt="Rainy Weather" width="300"/>
+  <img src="https://github.com/user-attachments/assets/39329a6f-4037-427b-848d-10065fe89415" alt="Cloudy Weather" width="300"/>
 </div>
 
 
